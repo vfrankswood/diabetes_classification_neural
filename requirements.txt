@@ -1,0 +1,6 @@
+pandas==None
+scikit-learn==None
+numpy==None
+tensorflow==None
+altair==None
+scipy==None
